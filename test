@@ -1,1 +1,15 @@
-i
+POST https://www.lefull.cn/Index/indexOfCity HTTP/1.1
+Host: www.lefull.cn
+Connection: keep-alive
+Content-Length: 9
+Accept: */*
+Origin: https://www.lefull.cn
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://www.lefull.cn/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: PHPSESSID=6a539bf470f80b30353b66688086625b; UM_distinctid=160eae1bf4d358-0f663e6fe5a3b-3a3e5c04-100200-160eae1bf4e48c; CNZZDATA1258146508=155758826-1515766976-https%253A%252F%252Fwww.google.com%252F%7C1515766976; qimo_seosource_4a90e4a0-9d00-11e7-91de-edbb161912bc=%E7%AB%99%E5%86%85; qimo_seokeywords_4a90e4a0-9d00-11e7-91de-edbb161912bc=; accessId=4a90e4a0-9d00-11e7-91de-edbb161912bc; bad_id4a90e4a0-9d00-11e7-91de-edbb161912bc=284195d1-f7a9-11e7-a0f6-492589c912bf; nice_id4a90e4a0-9d00-11e7-91de-edbb161912bc=284195d2-f7a9-11e7-a0f6-492589c912bf
+
+city_id=2
